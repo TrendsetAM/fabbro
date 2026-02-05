@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://trendsetam.github.io/fabbro/sitemap.xml

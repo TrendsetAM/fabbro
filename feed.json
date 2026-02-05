@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Fabbro",
+    "description": "",
+    "home_page_url": "https://trendsetam.github.io/fabbro",
+    "feed_url": "https://trendsetam.github.io/fabbro/feed.json",
+    "user_comment": "",
+    "icon": "https://trendsetam.github.io/fabbro/media/website/1.png",
+    "author": {
+        "name": "Sibolo"
+    },
+    "items": [
+    ]
+}
